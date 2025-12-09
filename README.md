@@ -1,4 +1,4 @@
-# 🏎️ F1 Telemetry & Advanced Race Analytics (Python)
+# 🏎️ F1 Telemetry & Advanced Race Analytics 
 
 A full-stack sports analytics project using **Python** and the **FastF1 API** to extract, analyze, and visualize Formula 1 telemetry data.
 
